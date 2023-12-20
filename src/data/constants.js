@@ -1,7 +1,6 @@
 import project1 from '../../src/images/project1.png'
 import project2 from '../../src/images/project2.png'
-import project3 from '../../src/images/project3.png'
-import project4 from '../../src/images/project4.png'
+import project5 from '../../src/images/project5.png'
 
 export const Bio = {
   name: "Raj Rampragash",
@@ -16,7 +15,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/RajRampragash",
   resume:
-    "https://drive.google.com/file/d/1PSVuNcz2qN3v-HM40PgtS9Aemr1_dfe-/view?usp=drive_link",
+    "https://drive.google.com/file/d/1FhAH2YOtWNJnCKWq4IRKhgslWMwJ2Gyr/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/raj-rampragash1207/",
 };
 
@@ -234,41 +233,25 @@ export const projects = [
     webapp: "https://taupe-taiyaki-2886ae.netlify.app/",
   },
   {
-    id: 2,
-    title: "Admin Dash Borad",
+    id: 3,
+    title: "To-Do-List",
     description:
-      "This admin dashboard template is create based on the bootstrap templates.",
-    image:project3,
+      "this todolist is using to create our tasks and update and delete CURD opration and the data is store in our back end .",
+    image:project5,
     tags: [
-      "React",
-      "Nodejs",
-      "Express",
-      "Bootstrap",
-      "mongoDB",
-      "HTML/CSS",
+    "React",
+    "Nodejs",
+    "Express",
+    "Mui",
+    "mongoDB",
+    "HTML/CSS",
+    "github",
     ],
     category: "web app",
-    github: "https://github.com/RajRampragash/admin-dashborad-sb.git",
-    webapp: "https://delicate-clafoutis-5f2e34.netlify.app/",
+    github: "https://github.com/RajRampragash/To-Do-List-FE.git/",
+    webapp: "https://sprightly-cobbler-deaa0c.netlify.app/",
   },
-  {
-    id:3 ,
-    title: "Admin Dash Borad",
-    description:
-      "This dash board create using for admin management system.",
-    image:project4,
-    tags: [
-      "React",
-      "Nodejs",
-      "Express",
-      "Bootstrap",
-      "mongoDB",
-      "HTML/CSS",
-    ],
-    category: "web app",
-    github: "https://github.com/RajRampragash/student-teacher.git",
-    webapp: "https://unrivaled-dodol-056caa.netlify.app/",
-  },
+ 
  
  
  
