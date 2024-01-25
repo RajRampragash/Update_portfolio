@@ -1,6 +1,7 @@
 import project1 from '../../src/images/project1.png'
 import project2 from '../../src/images/project2.png'
 import project5 from '../../src/images/project5.png'
+import image6 from '../../src/images/image6.png'
 
 export const Bio = {
   name: "Raj Rampragash",
@@ -123,6 +124,12 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
       },
+      {
+        name: "Onrender",
+        image:
+          "https://avatars.githubusercontent.com/u/36424661?s=200&v=4",
+      },
+      
       
     ],
   },
@@ -147,7 +154,7 @@ export const experiences = [
   {
     id: 0,
     role: "Process executive level -2",
-    company: "Omega Health care",
+    company: "Ags health care",
     date: "Oct 2023 - still ",
     desc: "Working Assistant client partent for medical billing to get the payment to my client for the responsibility and assistant to my juniors to improve to production.",
     skills: [
@@ -166,6 +173,14 @@ export const experiences = [
 ];
 
 export const education = [
+  {
+    id: 3,
+   
+    school: "GUVI",
+    date: "Nov 2022 - Aug 2023",
+    desc: "I compeleted my full stack course in guvi with certified by guvi with clear all the eligible to Full stack devloper ",
+    degree: "FSD-Mern stack",
+  },
   {
     id: 0,
    
@@ -251,7 +266,24 @@ export const projects = [
     github: "https://github.com/RajRampragash/To-Do-List-FE.git/",
     webapp: "https://sprightly-cobbler-deaa0c.netlify.app/",
   },
- 
+  {
+    id: 4,
+    title: "factory front-end page",
+    description:
+      "This web page fully responsive with front-end with the emailjs ext with help of contact to that company and using scroll function to smoth page desing.",
+    image:image6,
+    tags: [
+    "React",
+    "Netlify",
+    "Mui",
+    "Javascript",
+    "HTML/CSS",
+    "github",
+    ],
+    category: "web app",
+    github: "https://github.com/RajRampragash/AM_Leather.git/",
+    webapp: "https://main--deft-crostata-956d31.netlify.app/",
+  },
  
  
  
