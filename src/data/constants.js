@@ -1,7 +1,8 @@
 import project1 from '../../src/images/project1.png'
-import project2 from '../../src/images/project2.png'
+
 import project5 from '../../src/images/project5.png'
 import image6 from '../../src/images/image6.png'
+import image7 from '../../src/images/image7.png'
 
 export const Bio = {
   name: "Raj Rampragash",
@@ -152,10 +153,10 @@ export const experiences = [
    
   },
   {
-    id: 0,
+    id: 1,
     role: "Process executive level -2",
     company: "Ags health care",
-    date: "Oct 2023 - still ",
+    date: "Oct 2023 - Feb 2024 ",
     desc: "Working Assistant client partent for medical billing to get the payment to my client for the responsibility and assistant to my juniors to improve to production.",
     skills: [
       "Excle",
@@ -165,6 +166,27 @@ export const experiences = [
       "Salesforce",
       "time management",
       "teamwork"
+    ],
+    
+  }, {
+    id: 2,
+    role: "Web developer",
+    company: "Kodukku Classified pvt.ltd",
+    date: "Mar 2024- still ",
+    desc: "Iam working as a web developer, My team making elegant  public service product to one site of job and property and realeaste web portal. ",
+    skills: [
+      "Excle",
+      "PowerPoint",
+      "Word",
+      "time management",
+      "teamwork",
+      "react",
+      "express",
+      "node",
+      "MS Sql",
+      "api services",
+
+
     ],
     
   },
@@ -229,26 +251,9 @@ export const projects = [
     github: "https://github.com/RajRampragash/mentor-student-REACT",
     webapp: "https://harmonious-ganache-08b373.netlify.app/",
   },
+ 
   {
     id: 1,
-    title: "Slam Book",
-    description:
-      "This app is used to Curd opreation to create data and update and delet and also have authdication system to accesss your profile.",
-    image:project2,
-    tags: [
-      "React",
-      "Nodejs",
-      "Express",
-      "Bootstrap",
-      "mongoDB",
-      "HTML/CSS",
-    ],
-    category: "web app",
-    github: "https://github.com/RajRampragash/curd-opration.git",
-    webapp: "https://taupe-taiyaki-2886ae.netlify.app/",
-  },
-  {
-    id: 3,
     title: "To-Do-List",
     description:
       "this todolist is using to create our tasks and update and delete CURD opration and the data is store in our back end .",
@@ -267,8 +272,8 @@ export const projects = [
     webapp: "https://sprightly-cobbler-deaa0c.netlify.app/",
   },
   {
-    id: 4,
-    title: "factory front-end page",
+    id: 2,
+    title: "Model UI",
     description:
       "This web page fully responsive with front-end with the emailjs ext with help of contact to that company and using scroll function to smoth page desing.",
     image:image6,
@@ -284,7 +289,24 @@ export const projects = [
     github: "https://github.com/RajRampragash/AM_Leather.git/",
     webapp: "https://main--deft-crostata-956d31.netlify.app/",
   },
- 
+  {
+    id: 3,
+    title: "Model UI",
+    description:
+      "This one of the model UI for the banking web site ",
+    image:image7,
+    tags: [
+    "React",
+    "Netlify",
+    "Mui",
+    "Javascript",
+    "HTML/CSS",
+    "github",
+    ],
+    category: "web app",
+    github: "https://github.com/RajRampragash/card-page.git",
+    webapp: "https://main--lovely-cendol-1113f2.netlify.app/",
+  },
  
  
 ];
@@ -297,4 +319,5 @@ export const TimeLineData = [
   { year: 2021, text: "Shared my projects with the world" },
   { year: 2022, text: "Shared my projects with the world" },
   { year: 2023, text: "Started my own platform" },
+  { year: 2024, text: "Started my own platform" },
 ];
