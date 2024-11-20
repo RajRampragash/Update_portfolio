@@ -172,7 +172,7 @@ export const experiences = [
     id: 2,
     role: "Web developer",
     company: "Kodukku Classified pvt.ltd",
-    date: "Mar 2024- still ",
+    date: "Feb 2024- still ",
     desc: "Iam working as a web developer, My team making elegant  public service product to one site of job and property and realeaste web portal. ",
     skills: [
       "Excle",
