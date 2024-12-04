@@ -137,38 +137,7 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
-    id: 0,
-    role: "Process executive",
-    company: "Access Health care",
-    date: "Mar 2021 - Aug 2023 ",
-    desc: "Working Assistant client partent for medical billing to get the payment to my client for the responsibility .",
-    skills: [
-      "Excle",
-      "PowerPoint",
-      "Word",
-      "Google Suite",
-      "Salesforce",
-    ],
-   
-  },
-  {
-    id: 1,
-    role: "Process executive level -2",
-    company: "Ags health care",
-    date: "Oct 2023 - Feb 2024 ",
-    desc: "Working Assistant client partent for medical billing to get the payment to my client for the responsibility and assistant to my juniors to improve to production.",
-    skills: [
-      "Excle",
-      "PowerPoint",
-      "Word",
-      "Google Suite",
-      "Salesforce",
-      "time management",
-      "teamwork"
-    ],
-    
-  }, {
+   {
     id: 2,
     role: "Web developer",
     company: "Kodukku Classified pvt.ltd",
