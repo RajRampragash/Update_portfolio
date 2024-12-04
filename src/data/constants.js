@@ -141,7 +141,7 @@ export const experiences = [
     id: 2,
     role: "Web developer",
     company: "Kodukku Classified pvt.ltd",
-    date: "Mar 2024- still ",
+    date: "Feb 2024- still ",
     desc: "Iam working as a web developer, My team making elegant  public service product to one site of job and property and realeaste web portal. ",
     skills: [
       "Excle",
@@ -239,42 +239,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/RajRampragash/To-Do-List-FE.git/",
     webapp: "https://sprightly-cobbler-deaa0c.netlify.app/",
-  },
-  {
-    id: 2,
-    title: "Model UI",
-    description:
-      "This web page fully responsive with front-end with the emailjs ext with help of contact to that company and using scroll function to smoth page desing.",
-    image:image6,
-    tags: [
-    "React",
-    "Netlify",
-    "Mui",
-    "Javascript",
-    "HTML/CSS",
-    "github",
-    ],
-    category: "web app",
-    github: "https://github.com/RajRampragash/AM_Leather.git/",
-    webapp: "https://main--deft-crostata-956d31.netlify.app/",
-  },
-  {
-    id: 3,
-    title: "Model UI",
-    description:
-      "This one of the model UI for the banking web site ",
-    image:image7,
-    tags: [
-    "React",
-    "Netlify",
-    "Mui",
-    "Javascript",
-    "HTML/CSS",
-    "github",
-    ],
-    category: "web app",
-    github: "https://github.com/RajRampragash/card-page.git",
-    webapp: "https://main--lovely-cendol-1113f2.netlify.app/",
   },
  
  
