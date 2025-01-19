@@ -1,6 +1,7 @@
 import project1 from '../../src/images/project1.png'
 
 import project5 from '../../src/images/project5.png'
+import Project6 from '../../src/images/Project6.png'
 import image6 from '../../src/images/image6.png'
 import image7 from '../../src/images/image7.png'
 
@@ -240,7 +241,25 @@ export const projects = [
     github: "https://github.com/RajRampragash/To-Do-List-FE.git/",
     webapp: "https://sprightly-cobbler-deaa0c.netlify.app/",
   },
- 
+  {
+    id: 1,
+    title: "Food delivery app",
+    description:
+      "This project is based on web based site and it can able tThis project involves creating a user-friendly platform designed to streamline the process of ordering and delivering food. The website aims to connect restaurants, delivery personnel, and customers in an efficient and seamless way. The platform offers intuitive features to enhance user convenience, maintain operational efficiency, and ensure customer satisfaction.",
+    image:Project6,
+    tags: [
+    "React",
+    "Nodejs",
+    "Express",
+    "Mui",
+    "mongoDB",
+    "HTML/CSS",
+    "github",
+    ],
+    category: "web app",
+    github: "https://github.com/RajRampragash/mern-food-app-FE",
+    webapp: "https://panda-food-delivery.netlify.app/",
+  },
  
 ];
 
