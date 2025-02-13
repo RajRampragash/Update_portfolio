@@ -2,8 +2,9 @@ import project1 from '../../src/images/project1.png'
 
 import project5 from '../../src/images/project5.png'
 import Project6 from '../../src/images/Project6.png'
-import image6 from '../../src/images/image6.png'
-import image7 from '../../src/images/image7.png'
+import Project7 from '../../src/images/project7.png'
+// import image6 from '../../src/images/image6.png'
+// import image7 from '../../src/images/image7.png'
 
 export const Bio = {
   name: "Raj Rampragash",
@@ -260,6 +261,23 @@ export const projects = [
     github: "https://github.com/RajRampragash/mern-food-app-FE",
     webapp: "https://panda-food-delivery.netlify.app/",
   },
+  {
+    id: 1,
+    title: "Car Model listed app ",
+    description:
+      "This project is based on web based site and its a front end project with slid transction.",
+    image:Project7,
+    tags: [
+    "React",
+    
+    "HTML/CSS",
+    "github",
+    ],
+    category: "web app",
+    github: "https://github.com/RajRampragash/carwebsite",
+    webapp: "https://cardispaly.netlify.app/",
+  },
+ 
  
 ];
 
